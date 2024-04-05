@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="Forms\AddDishForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\AddFoodTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GuessingDishForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\GuessingFoodTypeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\InitForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Forms\WinForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
